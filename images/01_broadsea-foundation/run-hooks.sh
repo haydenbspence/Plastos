@@ -1,6 +1,4 @@
 #!/bin/bash
-# Copyright (c) 2024 Observational Health Data Sciences and Informatics.
-# Distributed under the Apache 2.0 License.
 
 # Enable strict error handling:
 # -e: exit on error
