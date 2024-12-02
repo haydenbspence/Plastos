@@ -1,0 +1,7 @@
+synthea_omop_etl:
+  outputs:
+    dev:
+      type: duckdb
+      path: synthea_omop_etl.duckdb
+      schema: dbt_synthea_dev
+  target: dev
